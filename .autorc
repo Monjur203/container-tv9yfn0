@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Monjur203",
+  "repo": "container-tv9yfn0",
+  "name": "Monjur203",
+  "email": "monjuralammolla203@gmail.com",
+}
